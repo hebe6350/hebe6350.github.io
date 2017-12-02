@@ -1,5 +1,6 @@
 nav a{
 	text-decoration: none;
+	color: black
 }
 nav ul {
 	list-style: none;
@@ -51,6 +52,9 @@ body {
 	/*End Position CSS*/
 }
 
+.links a{
+	color:black
+}
 a:visited {
     text-decoration-color: purple;
 }
@@ -69,13 +73,13 @@ h1 {
 h2 {
 	margin: 0;
 	padding: 0;
-	color: #239100;
+	color: black;
 }
 
 h3 {
 	margin: 0;
 	padding: 0;
-	color: blue;
+	color: black;
 }
 
 .container {
@@ -97,5 +101,5 @@ h3 {
     text-align: center;
 }
 img {
-    display: inline
+    display: inline-block
 }
