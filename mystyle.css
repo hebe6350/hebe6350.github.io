@@ -56,7 +56,7 @@ body {
 	color:black
 }
 a:visited {
-    text-decoration-color: purple;
+	font-style: italic;
 }
 a:active {
     text-decoration-color: red;
